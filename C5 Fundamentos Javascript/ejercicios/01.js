@@ -3,4 +3,6 @@
 
 const nuevoString = null;
 
+var nuevoString = 'Henry'
+
 module.exports = nuevoString;
